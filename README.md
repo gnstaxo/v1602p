@@ -2,7 +2,6 @@
 
 # v1602p
 
-Lee la palabra de Dios desde tu terminal
 
 Valera 1602 Purificada
 
@@ -37,12 +36,6 @@ Valera 1602 Purificada
             All verses in a book that match a pattern
         <Book>:<Chapter>/<Search>
             All verses in a chapter of a book that match a pattern
-
-## Build
-
-kjv can be built by cloning the repository and then running make:
-
-    git clone https://github.com/gnstaxo/v1602p.git
     cd v1602p
     make
 
